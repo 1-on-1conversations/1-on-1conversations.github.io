@@ -113,6 +113,9 @@ p {
   font-size: 1.25em;
 }
 
+a {
+  color:#666;
+}
 .site-section {
   /*border-bottom: 2px solid rgba(0, 0, 0, .25);*/
 }
