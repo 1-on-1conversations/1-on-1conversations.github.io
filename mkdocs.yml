@@ -4,3 +4,4 @@ pages:
   - Home: index.md
   - Recipe: recipe.md
   - Ice Breakers: ice-breakers.md
+google_analytics: ['UA-87318347-1', 'auto']
