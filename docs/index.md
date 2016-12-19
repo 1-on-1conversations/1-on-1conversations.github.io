@@ -16,4 +16,5 @@ At the moment, this is the list of cities where you can find a 1o1c meetup.
 | Country       | City          | Frequency  | Group     |
 | ------------- | ------------- | ---------- | ---------------|
 | Peru          | Lima          | Weekly     | [Conversando en Inglés](https://www.meetup.com/Conversando-en-Ingles/)|
+| Peru          | Arequipa      | Weekly     | [1-on-1 Conversations Arequipa](https://www.meetup.com/1-on-1-Conversations-Arequipa)|
 | USA           | Phoenix       | Weekly     | [Practice Spanish via conversation](https://www.meetup.com/Learn-Spanish-together/)|
