@@ -1,20 +1,24 @@
 ![alt text](./img/1o1c_banner.jpg)
 
 # What is 1-on-1 Conversations?
-1-on-1 Conversations (1o1c hereafter) is a movement that promotes language learning through in-person meetups.
-It is also the name of the format used for running these meetups.
+1-on-1 Conversations is a meetup format where participants talk to one another (1:1) and rotate every few minutes.
 
-The goal of 1o1c is to create communities (meetup groups) in as many cities as possible, where people can come together to practice language conversation skills with each other. For example, in Phoenix, Arizona, there is a 1o1c meetup every Thursday evening for people that want to practice Spanish. In Lima, Peru, there is a 1o1c meetup every Sunday for people that want to practice English.
+# What makes this format special?
+This format promotes equality as it ensures that everyone in the meetup is engaged and actively participating. No one is left out.
+Everyone's voice is heard. Additionally, this format works great in language learning meetups.
 
-# What makes 1o1c meetups unique?
-1o1c meetups follow a specific format that allows everyone to talk to as many people as possible on a 1-on-1 basis, for an arbitrary number of minutes of time (i.e. 10 or 15). For more information about how to run a 1o1c meetup,
-check out our [recipe](./recipe/).
+# How does it work?
+Check out our [quick recipe](./recipe/).
 
 # Where do I find one?
-At the moment, this is the list of cities where you can find a 1o1c meetup.
 
-| Country       | City          | Frequency  | Group     |
-| ------------- | ------------- | ---------- | ---------------|
-| Peru          | Lima          | Weekly     | [Conversando en Inglés](https://www.meetup.com/Conversando-en-Ingles/)|
-| Peru          | Arequipa      | Weekly     | [1-on-1 Conversations Arequipa](https://www.meetup.com/1-on-1-Conversations-Arequipa)|
-| USA           | Phoenix       | Weekly     | [Practice Spanish via conversation](https://www.meetup.com/Learn-Spanish-together/)|
+| Country       | City          | Group     |
+| ------------- | ------------- | ----------|
+| Peru          | Arequipa      | [1-on-1 Conversations Arequipa](https://www.meetup.com/1-on-1ConversationsArequipa)|
+| Peru          | Lima          | [Conversando en Inglés](https://www.meetup.com/Conversando-en-Ingles/)|
+| UAE           | Dubai         | [1-on-1 Conversations Dubai](https://www.meetup.com/1-on-1-Conversations-Dubai/)|
+| USA           | Nashville, TN | [1-on-1 Conversations Nashville](https://www.meetup.com/1-on-1-Conversations-Nashville/)|
+| USA           | Phoenix       | [1-on-1 Conversations Phoenix](https://www.meetup.com/1-on-1ConversationsPhoenix/)|
+
+If you would like to add a new group, create a [new issue](https://github.com/1-on-1conversations/1-on-1conversations.github.io/issues)
+on our GitHub repo. 
